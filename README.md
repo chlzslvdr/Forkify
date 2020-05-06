@@ -6,7 +6,7 @@ This is a [Demo Project](https://forkify-demo.netlify.app) made with [Udemy Comp
 
 ## Purpose
 
-Learn Modern JavaScript and AJAX
+Learn Vanilla JavaScript and AJAX
 
 ## Installation
 
