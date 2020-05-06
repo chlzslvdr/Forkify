@@ -8,10 +8,13 @@ This is a [Demo Project](https://forkify-demo.netlify.app) made with [Udemy Comp
 
 Learn Modern JavaScript and AJAX
 
+## API Reference
+
+https://forkify-api.herokuapp.com
+
 ## Resources
 
 http://codingheroes.io/resources
-
 
 ## About
 
