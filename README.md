@@ -8,6 +8,34 @@ This is a [Demo Project](https://forkify-demo.netlify.app) made with [Udemy Comp
 
 Learn Modern JavaScript and AJAX
 
+## Installation
+
+Clone and run npm install to install the dependencies.
+
+```bash
+npm install
+```
+
+## Start locally
+
+To run the project locally, use the `start` command.
+
+```bash
+npm run start
+```
+
+## Development
+
+```bash
+npm run dev
+```
+
+## Production
+
+```bash
+npm run build
+```
+
 ## API Reference
 
 https://forkify-api.herokuapp.com
