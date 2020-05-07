@@ -1,6 +1,6 @@
 import Search from './models/Search';
 import Recipe from './models/Recipe';
-import * as searchView from './views/searchViews';
+import * as searchView from './views/searchView';
 import { elements, clearLoader, renderLoader } from './views/base';
 
 /** GLOBAL STATE OF THE APP
