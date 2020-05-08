@@ -19,7 +19,7 @@ export const renderLike = like => {
                 </figure>
                 <div class="likes__data">
                     <h4 class="likes__name">${limitRecipeTitle(like.title, 20)}</h4>
-                    <p class="likes__author">${like.authors}</p>
+                    <p class="likes__author">${like.author}</p>
                 </div>
             </a>
         </li>
