@@ -3,7 +3,7 @@ export default class Likes {
         this.likes = [];
     }
 
-    addLike(id, title, author, img) {
+    addLikes(id, title, author, img) {
         const like = {
             id,
             title,
