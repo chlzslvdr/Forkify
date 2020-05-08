@@ -16,7 +16,6 @@ import { elements, clearLoader, renderLoader } from './views/base';
  * */
 const state = {};
 
-
 // SEARCH CONTROLLER
 const controlSearch = async () => {
     // 1. Get query from view
@@ -207,6 +206,5 @@ elements.recipe.addEventListener('click', e => {
     } else if (e.target.matches('.recipe__love, .recipe__love *')) {
         // Like controller
         controlLike();
-
     }
 });
