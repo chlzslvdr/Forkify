@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8d405974-3e23-4318-b656-2d3fc059c46a/deploy-status)](https://app.netlify.com/sites/forkify-demo/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8a10649e-7890-4db5-a1ff-b877f8b2bba3/deploy-status)](https://app.netlify.com/sites/forkify-demo/deploys)
 
 # Forkify
 
