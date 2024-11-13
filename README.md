@@ -24,12 +24,6 @@ To run the project locally, use the `start` command.
 npm run start
 ```
 
-## Development
-
-```bash
-npm run dev
-```
-
 ## Production
 
 ```bash
@@ -38,7 +32,7 @@ npm run build
 
 ## API Reference
 
-https://forkify-api.herokuapp.com
+https://forkify-api.herokuapp.com/v2
 
 ## Resources
 
